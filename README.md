@@ -10,3 +10,6 @@ Etapes :
 - Pré-traitement des données (valeurs manquantes, suppression individu/variables peu importantes, transformation des variables catégorielles, valeurs aberrantes)
 - Modélisation mathématique avec des méthodes de machine learning (PCR, PLS, Lasso, Kernel PCA, SVM, Random Forest)
 - Evaluation et sélection de meilleurs modèles (métriques)
+
+
+Exercice 3 : Data Challenge en collaboration avec Chloé Douarec & Meriem Bencheikh
